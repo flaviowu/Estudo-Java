@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="APP001/AulaApp/src"/>
+	<classpathentry kind="src" path="Array01/src"/>
+	<classpathentry kind="src" path="Array02/src"/>
+	<classpathentry kind="src" path="Arrayroom/src"/>
+	<classpathentry kind="src" path="Composicao/src"/>
+	<classpathentry kind="src" path="Composicao02/src"/>
+	<classpathentry kind="src" path="Date/src"/>
+	<classpathentry kind="src" path="enumerações/src"/>
+	<classpathentry kind="src" path="Estoque/src"/>
+	<classpathentry kind="src" path="Exemplo/src"/>
+	<classpathentry kind="src" path="Exercicio1/src"/>
+	<classpathentry kind="src" path="Exercicio2/src"/>
+	<classpathentry kind="src" path="Exercicio3/src"/>
+	<classpathentry kind="src" path="Lista01/src"/>
+	<classpathentry kind="src" path="Listas001/src"/>
+	<classpathentry kind="src" path="Matrizes01/src"/>
+	<classpathentry kind="src" path="ValorDolar/src"/>
+	<classpathentry kind="output" path="Composicao/bin"/>
+</classpath>
